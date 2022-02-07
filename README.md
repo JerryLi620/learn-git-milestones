@@ -273,7 +273,7 @@ Item # | Description | Completed
 2f | Link to `commit #4 from Atom` |(https://github.com/JerryLi620/learn-git-milestones/commit/053da5fcbe03dbd00c71ae3fcee139fd0fda98f6)
 3a | Link to `my-awesome-project` github.com repo page |(https://github.com/JerryLi620/my-awesome-project)
 4a | Link to `my-awesome-project` github.io "project site" |(https://jerryli620.github.io/my-awesome-project/)
-... | ... | Total: 0/12
+... | ... | Total: 12/12
 
 
 
