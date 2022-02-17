@@ -262,17 +262,17 @@ That is all that is required for this milestone. See the `ADVANCED.md` file if y
 Item # | Description | Completed
 --- | --- | ---
 1a | 1st Favorite emoji | 🐱
-1b | Link to `commit #1 from Github.com` | (https://github.com/JerryLi620/learn-git-milestones/commit/5341f67d040808d606906d5975b455f4101b60be#diff-b335630551682c19a781afebcf4d07bf978fb1f8ac04c6bf87428ed5106870f5)
-1c | Link to markdown tables docs | (https://www.markdownguide.org/extended-syntax/)
-1d | What does `log` do? | It shows commit logs
+1b | Link to `commit #1 from Github.com` | https://github.com/JerryLi620/learn-git-milestones/commit/5341f67d040808d606906d5975b455f4101b60be#diff-b335630551682c19a781afebcf4d07bf978fb1f8ac04c6bf87428ed5106870f5
+1c | Link to markdown tables docs | https://www.markdownguide.org/extended-syntax/
+1d | What does `log` do? | It shows commit logs.
 2a | 2nd Favorite emoji | 😅
-2b | Link to `commit #2 from Github Desktop` | (https://github.com/omundy/learn-git-milestones/commit/a6bd437fc28bf36d4dcccedd182d026c85f416b1)
+2b | Link to `commit #2 from Github Desktop` | https://github.com/omundy/learn-git-milestones/commit/a6bd437fc28bf36d4dcccedd182d026c85f416b1
 2c | Full path to your working directory | /Users/limingyang/Desktop/DIG250/learn-git-milestones
-2d | Link to `commit #3 from CLI` | (https://github.com/JerryLi620/learn-git-milestones/commit/ce14c646c925468c99e7930c912a4a3f8ac94233)
+2d | Link to `commit #3 from CLI` | https://github.com/JerryLi620/learn-git-milestones/commit/ce14c646c925468c99e7930c912a4a3f8ac94233
 2e | 3rd Favorite emoji | 🍦
-2f | Link to `commit #4 from Atom` | (https://github.com/JerryLi620/learn-git-milestones/commit/053da5fcbe03dbd00c71ae3fcee139fd0fda98f6)
-3a | Link to `my-awesome-project` github.com repo page | (https://github.com/JerryLi620/my-awesome-project)
-4a | Link to `my-awesome-project` github.io "project site" | (https://jerryli620.github.io/my-awesome-project/)
+2f | Link to `commit #4 from Atom` | https://github.com/JerryLi620/learn-git-milestones/commit/053da5fcbe03dbd00c71ae3fcee139fd0fda98f6
+3a | Link to `my-awesome-project` github.com repo page | https://github.com/JerryLi620/my-awesome-project
+4a | Link to `my-awesome-project` github.io "project site" | https://jerryli620.github.io/my-awesome-project/
 ... | ... | Total: 12/12
 
 
